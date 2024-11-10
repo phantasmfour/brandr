@@ -1,0 +1,13 @@
+[package]
+name = "display_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2"
+udev = "0.9.0"
+eframe = "0.28.1"
+egui = "0.28.1"
+scrap = "0.5.0"
+image = "0.22" # For image manipulation
+egui_extras = { version = "0.28.1", features = ["all_loaders"] }
