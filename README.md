@@ -5,6 +5,7 @@ This was a project for me to try and improve upon arandr as its hasn't been upda
 Currently the app just enabled you to move monitors around, disable/enable them, and set resolution.
 
 It has the feature of being able to actually see whats on the monitor you are moving by taking screenshots of the screen and mapping them correctly.  
+![Example Behavior](https://github.com/phantasmfour/brandr/blob/main/brandr.gif)
 
 It manages displays similar to arandr where its just using xrandr on the backend so you need to be using X11
 
